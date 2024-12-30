@@ -1,0 +1,22 @@
+.keytutorial {
+    font-size: 18px; 
+    color: black; 
+}
+
+#scoreboard {
+    position: absolute;
+    left: 333px; 
+    top: 99px; 
+}
+
+#jumpkey {
+    position: absolute;
+    left: 40px; 
+    top: 280px; 
+}
+
+#restartkey {
+    position: absolute;
+    left: 40px; 
+    top: 301px; 
+}
